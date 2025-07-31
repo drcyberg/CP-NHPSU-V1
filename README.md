@@ -22,10 +22,10 @@ The KTS1900GXAA-TA is an "ideal diode" type, low voltage drop, fast response pow
 
 | Notation          | Description                                                                                                       |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Input Power 1     | Input power from Raspberry Pi 5 PSU adapter 1                                                                     |
-| Input Power 2     | Input power from Raspberry Pi 5 PSU adapter 2                                                                     |
-| Output Power      | Output Power to the Raspberry Pi 5                                                                                |
-| LCD Display       | LCD Display PSU interface (2.54mm pin header)[^1]                                                                 |
+| Input_Power_1     | Input power from Raspberry Pi 5 PSU adapter 1                                                                     |
+| Input_Power_2     | Input power from Raspberry Pi 5 PSU adapter 2                                                                     |
+| Output_Power      | Output Power to the Raspberry Pi 5                                                                                |
+| LCD_Display       | LCD Display PSU interface (2.54mm pin header)[^1]                                                                 |
 | Controller        | Controlls the buzzer, fan, and logically measures the input power 1 and power 2 (voltage) (2.54mm pin header)[^1] |
 | Console           | CP-NHCB-V1 PSU interface (2.54mm pin header)[^1]                                                                  |
 
