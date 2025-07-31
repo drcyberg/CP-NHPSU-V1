@@ -49,7 +49,7 @@ The KTS1900GXAA-TA is an "ideal diode" type, low voltage drop, fast response pow
 - Based on KTS1900 ideal diode
 - Switchable input power
 - Controllable buzzer and fan
-- Logically measures the input power 1 and power 2 with PC817C (voltage)
+- Logically measures the input power 1 and power 2 interface with PC817C photocoupler (voltage)
 - Provides power supply to the LCD display and CP-NHCB-V1
 - USB-C interface
 - Number of PCB layer: 2 layers
