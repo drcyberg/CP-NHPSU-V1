@@ -68,7 +68,7 @@ The KTS1900GXAA-TA is an "ideal diode" type, low voltage drop, fast response pow
 ---
 
 ## Release: V1.0
-- [x] First release
+- [x] Initial release
 - [ ] Problems
 
 ---
